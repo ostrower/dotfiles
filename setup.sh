@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git config --global alias.lg = lg1
+git config --global alias.lg "lg1"
 git config --global alias.lg1 "lg1-specific --all"
 git config --global alias.lg2 "lg2-specific --all"
 git config --global alias.lg3 "lg3-specific --all"
